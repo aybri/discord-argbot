@@ -1,0 +1,21 @@
+{
+  "name": "discord-argbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GNU General Public License v3.0",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.2.0",
+    "eslint": "^7.6.0",
+    "ffmpeg-static": "^4.2.6",
+    "ytdl-core": "^3.2.0"
+  }
+}
