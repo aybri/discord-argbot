@@ -3,7 +3,7 @@ This is a Discord bot I made using Discord.js, I made it for an ARG I was making
 # Setting Up
 First, go to [Node.js's official site](https://nodejs.org/) to download Node.js, then read the [Installations & Preparations](https://discordjs.guide/preparations/) part of the guide. DO NOT run the install command for Discord.js, use "npm install discord.js @discordjs/opus" instead. This is so it can support joining voice channels and playing music.
 ## Installing Modules
-To get the needed modules for Node.js (Assuming you have already installed Discord.js) Run these commands in the command terminal: (I use windows, so if you are a Linux or Apple user this may not work for you. It probably will though.)
+To get the needed modules for Node.js (Assuming you have already installed Discord.js) Run these commands in the command terminal: (I use windows, so if you are a Linux or Apple user this may not work for you.)
 1. "npm install eslint"
 2. "npm install ffmpeg-static"
 3. "npm install ytdl-core"
