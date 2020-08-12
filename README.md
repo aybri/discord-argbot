@@ -12,4 +12,4 @@ You can also get PM2, it is not required but it makes things WAY easier. To get 
 
 You also need to go [here](https://discordjs.guide/creating-your-bot/configuration-files.html "here") for a guide on how to set up a config.json file. This is required as there are several lines of code that use this file.
 
-Now just run "Node ." to start the bot! or if you have PM2 installed, run "pm2 start index.js --name "ARGBot (Indev)" --watch".
+Now just run "Node ." to start the bot, or if you have PM2 installed, run "pm2 start index.js --name "ARGBot (Indev)" --watch", then open a new command prompt and run "pm2 monit"
