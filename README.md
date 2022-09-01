@@ -1,5 +1,7 @@
 # Note
-This is really old, I'm working on a better bot.
+Hello, explorer! I'm not sure how you found this particular repo, but it is old. VERY old. I made this back when I first started programming, a time when I... really shouldn't have been on discord, like, at all. I was unreasonably into ARGs for some reason. If you want to mess with it, take most of it as an example of what NOT to do.
+
+Re-archiving this now...
 # ARGBot
 This is a Discord bot I made using Discord.js, I made it for an ARG I was making but I honestly have no idea how to code. So its mostly just stuff from the official guide for Discord.js. I decided to make it open source so you can use the code from the bot to make some cool stuff, because I AM actually adding stuff to it.
 # Setting Up
